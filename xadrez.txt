@@ -1,0 +1,29 @@
+(Como funciona o código)
+
+1.Declaração de variavel
+2.Saudação
+3.Menu de interação de escolha
+4.Pedir ao usuario para fazer uma escolha e recebe-la
+5.Lógica da escolha 
+ 
+ -------- Bispo -------
+6.Contagem para o inicio da demostração
+7.Declaração de variavel Bispo
+8.Demostração Bispo
+9.Explicação da movimentação do Bispo
+
+ -------- Rainha -------
+10. Escolha Rainha
+11. Demostração Rainha
+12. Explicação da movimentação da Rainha
+
+ -------- Torre -------
+13. Escolha Torre
+14. Declaração varival posição Torre
+15. Demonstração  da Torre dentro do Do-While para ser possível, se o usuario quiser repetir a demonstração.
+16. Explicação Torre
+17. Definir a posição da Torre como 1 novamente para ser possível repetir a demonstração
+18. Condição para repetir a demonstração e leitura da resposta
+
+
+ 
